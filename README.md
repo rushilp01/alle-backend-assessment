@@ -15,3 +15,7 @@ This is a text streaming endpoint. I have already stubbed datasets for 3 provide
 1. Used just 3 providers/inferences
 2. Have a predefined dataset to choose text from
 3. Switching between the 2 based on a failure condition(provider in which the failure rate is the least, will be the new provider).
+
+
+## Example screenshot of real time provider switching
+![Screenshot (4)](https://github.com/user-attachments/assets/4048eaae-b180-4cb1-af40-86c1940d00d1)
