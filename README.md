@@ -5,10 +5,11 @@ This is a text streaming endpoint. I have already stubbed datasets for 3 provide
 ## To run the program:
 1. Clone repo
 2. install Golang
-3. for windows: choco install make (install choco from here https://chocolatey.org/install)
-4. run 
+3. for windows:
+   ```choco install make``` (install choco from here https://chocolatey.org/install)
+5. run 
 ```make gorun``` command
-5. go to your browser and simply type 
+6. go to your browser and simply type 
 ```localhost:8080/stream```.
 
 ## Assumptions
